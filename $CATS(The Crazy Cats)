@@ -1,12 +1,30 @@
 {
-  "$policyId": "bbb0be3f57598bbf6a7d6ce18a60700beceb6904923a6a555ca03454",
-  "project": "Meme Funny",
+  "subject": "bbb0be3f57598bbf6a7d6ce18a60700beceb6904923a6a555ca03454.43415453",
+  "name": {
+    "value": "$CATS"
+  },
+  "description": {
+    "value": "Crazy cat is funny and strange animal. Total supply: 888,888,888,888,900 $CATS."
+  },
+  "policy": {
+    "value": "bbb0be3f57598bbf6a7d6ce18a60700beceb6904923a6a555ca03454"
+  },
+  "ticker": {
+    "value": "$CATS"
+  },
+  "url": {
+    "value": "https://linktr.ee/crazycats.io"
+  },
+  "logo": {
+    "value": "https://yourtokenwebsite.com/logo.png"
+  },
+  "decimals": {
+    "value": 0
+  },
   "categories": ["Meme"],
   "socialLinks": {
     "website": "https://linktr.ee/crazycats.io",
-    "twitter": "https://x.com/CATScoinada",
-    "discord": "",
-    "telegram": "",
-    "coinMarketCap": "",
-    "coinGecko": ""
-  }
+    "twitter": "https://x.com/CATScoinada"
+  },
+  "fingerprint": "asset1cs0km2uy4d26n2rssjksr8g7kqlgw7pkpkp236"
+}
